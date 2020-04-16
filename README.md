@@ -19,6 +19,7 @@ Semana WorkshopDev da Rocketseat 🚀
 - [CSS3](https://developer.mozilla.org/en-US/docs/Archive/CSS3)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript)
 - [NodeJS](https://nodejs.org/en/)
+- [Express](https://expressjs.com/)
 - [Nodemon](https://nodemon.io/)
 - [SQLite](https://www.sqlite.org/)
 - [Nunjucks](https://mozilla.github.io/nunjucks/)
