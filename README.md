@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/12499627/78029322-c47a5080-7336-11ea-90dd-617a15e074ce.png">
-</p>
-
 # Casa criativa especial
 Semana WorkshopDev da Rocketseat 🚀
 
@@ -14,7 +10,7 @@ Semana WorkshopDev da Rocketseat 🚀
 
 ### Funcionalidades:
 - Permite o cadastro das ideias (título, categoria, link da imagem, descrição da atividade, link da ideia);
-- Permite listar todas as ideias;
+- Permite listar todas as ideias.
 
 <hr/>
 
@@ -34,3 +30,13 @@ Semana WorkshopDev da Rocketseat 🚀
   > $ npm install
 
   > $ npm start
+  
+<hr/>
+
+![home](https://user-images.githubusercontent.com/12499627/79494072-c7449900-7ff8-11ea-829e-af7e004a1812.PNG)
+
+![ideas](https://user-images.githubusercontent.com/12499627/79494087-cb70b680-7ff8-11ea-9c9f-7ba241d037be.PNG)
+
+![NewIdeas](https://user-images.githubusercontent.com/12499627/79494091-cf043d80-7ff8-11ea-98c6-472f3a646876.PNG)
+
+![CasaCriativa](https://user-images.githubusercontent.com/12499627/79493969-99f7eb00-7ff8-11ea-8afe-2f8ce920f386.gif)
