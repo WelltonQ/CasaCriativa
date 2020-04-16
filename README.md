@@ -21,6 +21,7 @@ Semana WorkshopDev da Rocketseat 🚀
 - [NodeJS](https://nodejs.org/en/)
 - [Nodemon](https://nodemon.io/)
 - [SQLite](https://www.sqlite.org/)
+- [Nunjucks](https://mozilla.github.io/nunjucks/)
 
 <hr/>
 
